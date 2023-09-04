@@ -1,0 +1,12 @@
+Id pedido: 0
+Nombre cliente: a
+Direccion cliente: a
+Items del pedido: 
+
+Producto papas medianas 5500
+Eliminados
+huevo
+Producto gaseosa 5000
+Precio neto: 10500
+Precio iva pedido : 1995
+Precio total : 12495
